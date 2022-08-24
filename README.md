@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development jobs.
 - 🌱 I’m currently building amazing projects and also learning new good things everyday.
 - 💞️ I’m looking to collaborate on interesting projects. 
-- 📫 How to reach me at Zurumdev@gmail.com
+- 📫 How to reach me at zurumdev@gmail.com
 
 <!---
 zurumlab/zurumlab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
